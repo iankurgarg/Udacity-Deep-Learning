@@ -1,5 +1,6 @@
 # Udacity-Deep-Learning
 
+As of now, Only 1 and 2 are complete. 3 is Ongoing. 4 to 6 are unsolved.
 
 ## Credits
 
