@@ -1,6 +1,6 @@
 # Udacity-Deep-Learning
 
-As of now, Only 1 and 2 are complete. 3 is Ongoing. 4 to 6 are unsolved.
+As of now, Only 1 and 2 are complete. 3 is Ongoing. 4 to 6 are unsolved. The code is free to use and is available under the same original license as found at [TensorFlow repository][tensorflow-repo]
 
 ## Credits
 
